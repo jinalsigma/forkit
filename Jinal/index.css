@@ -3,7 +3,7 @@ h1
     text-align: center;
 }
 
-.button {
+.button a {
     display: block;
     width: 150px;
     height: 25px;
@@ -15,12 +15,10 @@ h1
     font-weight: bold;
     line-height: 25px;
     margin-right:20px;
-}
-a
-{
     text-decoration: none;
     float: left;
 }
+
 .subdiv
 {
     clear: both;
